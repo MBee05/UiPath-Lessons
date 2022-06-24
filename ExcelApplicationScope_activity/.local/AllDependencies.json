@@ -8419,9 +8419,9 @@
     "restore": {
       "projectUniqueName": "ExcelApplicationScope_activity",
       "projectName": "ExcelApplicationScope_activity",
-      "projectPath": "D:\\Robots\\UiPath-Tutorial\\ExcelApplicationScope_activity\\.local",
+      "projectPath": "D:\\UiPath\\UiPath-Lessons\\ExcelApplicationScope_activity\\.local",
       "packagesPath": "C:\\Users\\Mohamed Bee\\.nuget\\packages\\",
-      "outputPath": "D:\\Robots\\UiPath-Tutorial\\ExcelApplicationScope_activity\\.local"
+      "outputPath": "D:\\UiPath\\UiPath-Lessons\\ExcelApplicationScope_activity\\.local"
     },
     "frameworks": {
       "net461": {

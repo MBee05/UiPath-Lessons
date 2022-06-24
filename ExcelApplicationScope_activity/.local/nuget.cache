@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RbcsYEdMLtJa84yh0ZfAamWk8BdLC6C62azUhYEcNgSqRboZ924QnPTGWbDH1B0Urp3+HDIeU1yaEvN0z65Ntg==",
+  "dgSpecHash": "CBGoyV1Y18Hp08Qhy87WeVlMRDayWYmXqUPqAwJrfdDuENN8BN4qwfTUqxbuKrToFr5xOkrXnnSAXmKZVST1gA==",
   "success": true,
-  "projectFilePath": "D:\\Robots\\UiPath-Tutorial\\ExcelApplicationScope_activity\\.local\\",
+  "projectFilePath": "D:\\UiPath\\UiPath-Lessons\\ExcelApplicationScope_activity\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Mohamed Bee\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Mohamed Bee\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
